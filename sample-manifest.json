@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8c7c893f-ec58-463c-a645-172eaa83926c",
+  "id_short": 932144,
+  "published_at": "2026-04-16T07:23:42Z",
+  "repo_name": "white-space-finder-in-minneapolis-st-paul-bloomington-metro-mn-wi-us-sample-932144",
+  "sample_asset_name": "beamstation_932144_food_and_drink-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/932144/beamstation_932144_food_and_drink-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv",
+  "sample_records": 4,
+  "sample_sha256": "ac65855cd610fcf7bab69195c0cec4d60bda787f918b8aa3b4348dda0db98aea",
+  "sample_size_bytes": 33484,
+  "total_records": 44
+}
