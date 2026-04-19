@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 44 records |
 | Free sample size | 4 records (9.09%) |
-| Last export | 2026-04-07T16:46:13.099082+00:00 |
+| Last export | 2026-04-14T22:38:08.687616+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-minneapolis-st-paul-bloomington-metro-mn-wi-us-sample-932144/releases/download/sample-latest/beamstation_932144_food_and_drink-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
