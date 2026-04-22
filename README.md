@@ -1,6 +1,6 @@
 # White Space Finder in Minneapolis-St. Paul-Bloomington (Metro), MN-WI, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `932144` |
 | Location | Minneapolis-St. Paul-Bloomington, MN-WI |
 | Category | Restaurants |
-| Full dataset size | 44 records |
-| Free sample size | 4 records (9.09%) |
-| Last export | 2026-04-14T22:38:08.687616+00:00 |
+| Full dataset size | 19 records |
+| Free sample size | 1 records (5.26%) |
+| Last export | 2026-04-22T01:41:25.903887+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-minneapolis-st-paul-bloomington-metro-mn-wi-us-sample-932144/releases/download/sample-latest/beamstation_932144_food_and_drink-us-minneapolisstpaulbloomingtonmnwi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
